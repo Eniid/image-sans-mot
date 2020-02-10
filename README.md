@@ -31,6 +31,7 @@ Les articles sur les deux pages principales seront de actualitée, des annonces 
 
 
 En plus de cela le cliant voudrait 
+
     * Une possibilitée de s'abonner à le newsletter (assez visible)
     * Un lien / jeu entre les images et le texte (voir exemple dans les sites proposé par le cliant)
     * Liens avec la page FB (qui doit fonctionné en || du site web)
