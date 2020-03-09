@@ -3,16 +3,22 @@
 ## Chaier des charges 
 
 ### Consepte et lieu
-Il faut un site web pour un galerie sue le théme de la photo place Vivnis à St Léonard. C'est à la fois un espace d'exposition sur la photographie & une bibliothéque. Les deux consepte devront être mit en avant séparément sur le site. 
+
+L'image sans nom est une ASBL sur le théme de la photographie située Place Vivnis à Saint Léonard. C'est à la fois un esspace d'exposition sur la photographie et une bibliothéque qui contient entre 4000 et 5000 livres tous en lien avec la photographie (les deux conseptes photo/ bibliothéque) devront être mot en avant séparément sur le site.
+
+Le cliant, Olivier Cornill est un passionné qui gére le lieux avec des amis tout en aillant des activitées paralèles. 
 
 Page FB : https://www.facebook.com/limagesansnom/
 
 
 ### Charte graphique & demandes visuelles 
-    * Grille de placement d'image particulière 
-    * Typographie de titre [nom de la police]
-    * Nom de l'endroit réparti dans les coins
-    * Couleurs jaunes, noir, blanc
+
+Le cliant à fournit une chaarte graphique pré-existante qu'il utilise pour ses affiches promotionelles. Elle contient : 
+
+    * Une rille de placement d'image particulière 
+    * Une typographie de titre _Novecento_ à utiliser sur le site
+    * Le nom de l'endroit réparti dans les coins
+    * Une couleurs jaunes pour le nom de l'entroit. 
 
 Le clian à demandé un visuelle général sobre, avec une mise en avant de la typograpgie, simple et avec beaucoup d'images. Il à également emit l'idée d'avoir un coté "bargo".
 
@@ -22,6 +28,8 @@ Le clian à présisé qu'il préférait l'utilisation de couleurs primaires.
 
 
 ### Se qui doit figurer sur le site 
+
+    * Une page d'acceuil => Elle doit contenir les dernières news 
     * Une partie dédié à la photographie & aux epositions : Elle sera une présenation globale de leurs expositions et des articles ajouté au fur et à mesur par le clian (en wordpress)
     * Une partie dédié aux livre qui reprend le même consepte 
     * Une page "about me" avec toutes les informations qui seront données par le cliant 
@@ -52,3 +60,10 @@ __ à venir __
 
 Mail du cliant : oli@olivercornil.be
 overture prochaine du lieu : samadi de 14 à 18
+
+
+
+## A visiter 
+
+Moodboard => https://projects.invisionapp.com/d/main#/projects/boards/6651839
+Shéma du site => https://projects.invisionapp.com/freehand/document/fiSB48mEN
