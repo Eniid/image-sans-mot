@@ -66,4 +66,7 @@ overture prochaine du lieu : samadi de 14 à 18
 ## A visiter 
 
 Moodboard => https://projects.invisionapp.com/d/main#/projects/boards/6651839
+
 Shéma du site => https://projects.invisionapp.com/freehand/document/fiSB48mEN
+
+
